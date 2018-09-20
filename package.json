@@ -1,0 +1,19 @@
+{
+  "name": "ultimate-angular-master-src",
+  "version": "1.0.0",
+  "description": "helpful AngularJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UltimateAngular/ultimate-angular-master-src.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UltimateAngular/ultimate-angular-master-src/issues"
+  },
+  "homepage": "https://github.com/UltimateAngular/ultimate-angular-master-src#readme"
+}
